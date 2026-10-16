@@ -92,7 +92,3 @@ La implementación se centra en ilustrar el DIP y las pruebas unitarias de la l�
 
 La comunicación HTTP requiere un servicio externo compatible y una configuración adecuada de `HttpClient`, aspectos que no forman parte de las pruebas unitarias incluidas.
 
-## 9. Contexto académico
-
-Material complementario elaborado para el seminario de Arquitecturas de Software, como apoyo a la evaluación práctica de la inversión de dependencias.
-
